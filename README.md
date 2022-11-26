@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VeraMarija
 - 👀 I’m interested in Computer Science :)
 - 🌱 I’m currently learning Java, Spring Boot, MongoDB, Docker and game development
-- 💞️ I’m looking to collaborate on java app with my colleagues on college
+- 💞️ I’m looking to collaborate...
 - 📫 How to reach me ...
 
 <!---
